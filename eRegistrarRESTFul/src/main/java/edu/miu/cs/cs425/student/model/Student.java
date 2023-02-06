@@ -35,12 +35,12 @@ public class Student {
     private Double cgpa;
 
     private LocalDate dateOfEnrollment;
-
+    private Boolean isInternational;
     public Student() {
 
     }
 
-//    private Boolean isInternational;
+
 
 
 

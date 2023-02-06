@@ -20,25 +20,7 @@ public class Lab10Application implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         System.out.println("Application Started");
-
-//
-//        Student dnna=new Student(null,"000-71-0001","Danna",
-//                "Kames","Dnith",3.88, LocalDate.of(2009,03,24));
-//        var savedDana=studentService.createNewStudent(dnna);
-//        System.out.println(savedDana);
-//
-//        Student Anna=new Student(null,"000-61-0001","Anna",
-//                "James","Smith",3.78, LocalDate.of(2019,05,12));
-//        var savedAnna= studentService.createNewStudent(Anna);
-//        System.out.println(savedAnna);
-
-
-
-//        var studentList=studentService.getAllStudent();
-//        System.out.println(studentList);
-
-
-        System.out.println("Application Successfully ended");
+   System.out.println("Application Successfully ended");
 
     }
 }
